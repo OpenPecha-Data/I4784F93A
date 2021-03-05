@@ -1,15 +1,16 @@
-id: opecha:P007132
+id: P007132
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20290
   title: ཀྲུང་གོའི་གཞི་རིམ་མང་ཚོགས་རངས་སྐྱོང་ལམ་ལུགས།
-  volume:
+  author: ''
+  volumes:
     10a11e53c298448c8a20ed3269b9fd23:
       image_group_id: I8LS20292
       title: Volume 1 of krung go'i gzhi rim mang tshogs rangs skyong lam lugs/
       volume_number: 1
       total_pages: 213
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཀྲུང་གོའི་གཞི་རིམ་མང་ཚོགས་རངས་སྐྱོང་ལམ་ལུགས།
   author: ''
